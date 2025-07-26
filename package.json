@@ -1,7 +1,6 @@
 {
   "name": "city-json",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "start": "json-server --host 0.0.0.0 --watch cities.json --port $PORT"
   },
